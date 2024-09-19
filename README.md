@@ -17,6 +17,6 @@ The project consists of the following components and functionalities:
 - Other Operations: Additional operations and analyses based on the detected language and text characteristics.
 
 ## Project Description:
-For more detailed information about the project objectives, methods, and functionalities, please refer to the `Project_description.pdf` file.
+For more detailed information about the project objectives, methods, and functionalities, please refer [here](https://github.com/Dimitris-STAT/Lang_Detection_Toxicity_Classification/blob/main/pdfs/Project_description.pdf) and [here](https://github.com/Dimitris-STAT/Lang_Detection_Toxicity_Classification/blob/main/pdfs/report.pdf) file.
 
 
